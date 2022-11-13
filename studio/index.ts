@@ -2,6 +2,10 @@
 // * Code the Astronaut, Cargo, and Rocket classes in new files.
 // * Import the three classes into this file.
 
+import { Rocket } from './Rocket'
+import { Astronaut } from './Astronaut'
+import { Cargo } from './Cargo'
+
 
 let falcon9: Rocket = new Rocket('Falcon 9', 7500);
 
